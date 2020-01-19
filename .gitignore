@@ -1,0 +1,11 @@
+# IntelliJ Idea Folders and Files
+.idea/
+mite-flask-api.iml
+
+# Venv
+flask-mite
+
+# Credentials
+*.conf
+
+__pycache__
